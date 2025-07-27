@@ -62,17 +62,3 @@ Cada estrutura de dados possui seu próprio README com:
 - Documentação do código
 
 Para mais detalhes sobre o formato da documentação, consulte o [template](./docs/template.md).
-
-## 🤝 Contribuição
-
-Sinta-se à vontade para contribuir com:
-
-- Novas estruturas de dados
-- Melhorias nas implementações existentes
-- Correções de bugs
-- Documentação
-- Exemplos de uso
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
